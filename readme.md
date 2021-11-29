@@ -1,6 +1,6 @@
 # Báo cáo cuối kỳ môn Điện toán đám mây (Lớp Tối thứ 3)
 
-## Đề tài: Tìm hiểu AWS SageMaker và viết ứng dụng minh họa
+### Đề tài: Tìm hiểu AWS SageMaker và viết ứng dụng minh họa
 
 DANH SÁCH THÀNH VIÊN:
 
